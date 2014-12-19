@@ -1,1 +1,0 @@
-{"description":"Guestbook is an example Python application showing basic usage of Google App Engine","runners":{"configs":{"recommend":{"options":{},"variables":{},"ram":256}},"default":"system:/python/web/python27_gae1914"},"type":"GAEPython","attributes":{"language":["python"]}}
